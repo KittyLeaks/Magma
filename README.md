@@ -8,4 +8,5 @@ Usage:
 - screen -S cnc ./cnc
 - Connection is in main.go [**0.0.0.0:1312**]
 
+**Join the [tele](https://t.me/kittyleaks) for more**
 **Enjoy!**
